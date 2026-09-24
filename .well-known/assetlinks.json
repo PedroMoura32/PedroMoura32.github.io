@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pedromoura.jogodoscliques",
+      "sha256_cert_fingerprints": [
+        "9E:8D:6A:B1:60:7D:04:EA:3C:CE:3B:73:98:4F:AE:C7:90:C4:2D:71:CE:CF:EF:44:BF:70:55:9C:66:5B:79:AA"
+      ]
+    }
+  }
+]
